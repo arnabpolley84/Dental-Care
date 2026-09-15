@@ -1,0 +1,6 @@
+{
+  "name": "Dental Care | ডেন্টাল কেয়ার",
+  "description": "Dental Care is a patient-focused dental clinic in Netaji Nagar, Kolkata, offering comfortable and attentive dental care. Contact us at 090386 01761.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
